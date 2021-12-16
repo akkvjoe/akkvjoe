@@ -2,7 +2,7 @@
 - 👀 I’m interested in Optimization, IOT & Deep Learning
 - 🌱 I’m currently learning Intelligent Systems & Control
 - 💞️ I’m looking to collaborate on Optimization and network problems
-- 📫 How to reach me : by email at joe.v.analytics@gmail.com
+- 📫 How to reach me : by email at joe.v.code@gmail.com
 
 <!---
 akkvjoe/akkvjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
